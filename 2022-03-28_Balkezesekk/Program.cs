@@ -10,7 +10,8 @@ namespace _2022_03_28_Balkezesekk
     {
         static void Main(string[] args)
         {
-
+            
+            Console.ReadKey();
         }
     }
 }
